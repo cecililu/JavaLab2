@@ -27,7 +27,7 @@ class Employee{
     private String name="Unknown";
     private double salary=20;
     private int id;
-    private static int nextID=1;
+    private static int nextID=10;
    static{
         nextID=1;
    }
