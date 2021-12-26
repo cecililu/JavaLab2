@@ -1,5 +1,4 @@
-//System.out.print() inside of constructor are just there to debug do not copy that shit lol;
-//nextId=10 has no effect as in the next line static block initialization overwrites it
+
 
 public class WaysOfValueassign{
         public static void main(String args[]){
